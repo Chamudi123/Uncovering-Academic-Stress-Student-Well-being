@@ -10,31 +10,23 @@ What are the main academic, social, and psychological factors affecting student 
 ---
 
 ## 🔍 Variables Analyzed
-- Academic workload
-- Sleep quality
+- Demographic
+- Academic Year
+- Subject Stream
 - Support from peers/family
-- Exam pressure
-- Time management
+- Peer pressure
+- Extra Curricular Involvement
 
 ---
 
 ## 🔑 Key Insights
-- Students with poor time management and insufficient sleep reported higher stress levels.
-- Academic workload was the top contributor to stress, especially around exam periods.
-- Peer and family support helped reduce perceived stress.
+- Found that stress levels do not vary significantly based on the subjects students are following.
+- However, students who engage in frequent, quality conversations with family and loved ones tend to have lower stress levels.
 
 ---
 
 ## 🛠 Tools Used
-- **SPSS** for statistical analysis and data visualization
-
----
-
-## 🖼️ Sample Outputs
-
-| Chart | Table |
-|-------|-------|
-| ![Chart](screenshots/output_chart_1.png) | ![Table](screenshots/output_table_1.png) |
+- **SPSS** statistical software for creating visualizations and conducting in-depth analysis.
 
 ---
 

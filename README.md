@@ -9,6 +9,11 @@ What are the main academic, social, and psychological factors affecting student 
 
 ---
 
+## 📋 Data Collection: 
+Collected data using a Google Form, which was shared among university students. Please refer attached Questionnaire PDF.
+
+---
+
 ## 🔍 Variables Analyzed
 - Demographic
 - Academic Year
